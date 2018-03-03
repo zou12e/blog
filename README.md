@@ -33,7 +33,7 @@
 
 
 ### 2015-08
- * [gulp 自动刷新页面](https://github.com/zou12e/blog/issues/9)
+ * [Gulp 自动刷新页面](https://github.com/zou12e/blog/issues/9)
  
  
 ### 2015-05

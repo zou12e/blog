@@ -1,39 +1,32 @@
 ## 文章列表
 
-### 2015-08
- * [gulp 自动刷新页面](https://github.com/zou12e/blog/issues/9)
- 
-### 2015-08
- * [gulp 自动刷新页面](https://github.com/zou12e/blog/issues/9)
- 
-
 ### 2018-1
- * [gulp 自动刷新页面](https://github.com/zou12e/blog/issues/9)
+ * [Ubuntu 连接 sqlserver数据库](https://github.com/zou12e/blog/issues/19)
+ * [JS localStorage 与 cookie 的存储大小](https://github.com/zou12e/blog/issues/18)
  
  
 ### 2017-12
- * [gulp 自动刷新页面](https://github.com/zou12e/blog/issues/9)
+ * [JS call,apply,bind方法的总结](https://github.com/zou12e/blog/issues/17)
  
  
 ### 2017-11
- * [gulp 自动刷新页面](https://github.com/zou12e/blog/issues/9)
+ * [ES6 常用语法](https://github.com/zou12e/blog/issues/16)
+ * [Webpack学习笔记一](https://github.com/zou12e/blog/issues/15)
+ * [React 学习笔记](https://github.com/zou12e/blog/issues/14)
+ * [Sublime 给 < script type="text/babel" > 加语法高亮?](https://github.com/zou12e/blog/issues/13)
  
  
 ### 2017-04
- * [gulp 自动刷新页面](https://github.com/zou12e/blog/issues/9)
+ * [渐进式web应用](https://github.com/zou12e/blog/issues/12)
  
  
 ### 2016-06
- * [gulp 自动刷新页面](https://github.com/zou12e/blog/issues/9)
+ * [网易云音乐MV重复播放](https://github.com/zou12e/blog/issues/11)
  
  
 ### 2016-04
- * [gulp 自动刷新页面](https://github.com/zou12e/blog/issues/9)
- 
+ * [HTML5新特性——HTML 5 Canvas vs SVG [转]](https://github.com/zou12e/blog/issues/10)
 
-### 2015-08
- * [gulp 自动刷新页面](https://github.com/zou12e/blog/issues/9)
- 
 
 ### 2015-08
  * [gulp 自动刷新页面](https://github.com/zou12e/blog/issues/9)

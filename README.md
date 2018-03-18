@@ -1,6 +1,7 @@
 ## 文章列表
 
 ### 2018-03
+ * [Ubuntu ssh连接失败解决方案](https://github.com/zou12e/blog/issues/24)
  * [Ubuntu 安装nodejs](https://github.com/zou12e/blog/issues/23)
  * [菜谱： 炒花甲、椒盐皮皮虾](https://github.com/zou12e/blog/issues/22)
  * [日本11天自由行](https://github.com/zou12e/blog/issues/21)

@@ -1,6 +1,7 @@
 ## 文章列表
 
 ### 2018-04
+ * [Nginx 配置免费 HTTPS](https://github.com/zou12e/blog/issues/28)
  * [NodeJS 测试代码覆盖率关键代码](https://github.com/zou12e/blog/issues/27)
 
 ### 2018-03

@@ -1,7 +1,7 @@
 ## 文章列表
 
 ### 2018-05
- * [Ubuntu 安装小程序开发工具](https://github.com/zou12e/blog/issues/29)
+ * [Ubuntu 安装小程序开发工具](https://github.com/zou12e/blog/issues/30)
  
 ### 2018-04
  * [Nginx 配置免费 HTTPS](https://github.com/zou12e/blog/issues/28)

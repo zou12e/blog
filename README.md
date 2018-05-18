@@ -1,6 +1,7 @@
 ## 文章列表
 
 ### 2018-05
+ * [小程序开发问题总结](https://github.com/zou12e/blog/issues/31)
  * [Ubuntu 安装小程序开发工具](https://github.com/zou12e/blog/issues/30)
  
 ### 2018-04

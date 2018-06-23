@@ -1,7 +1,10 @@
 ## 文章列表
 
-### 2018-05
+### 2018-06
+ * [Ubuntu 部署.Net Core项目](https://github.com/zou12e/blog/issues/35)
  * [服务器 Mysql远程连接](https://github.com/zou12e/blog/issues/34)
+ 
+### 2018-05
  * [Nginx GitLab配置冲突](https://github.com/zou12e/blog/issues/33)
  * [Mac技巧](https://github.com/zou12e/blog/issues/32)
  * [小程序开发问题总结](https://github.com/zou12e/blog/issues/31)
